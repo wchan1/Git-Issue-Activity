@@ -594,14 +594,14 @@ HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
 OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
 THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
 PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE FO THE PROGRAM
-IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASMEUS THE COST OF
+IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
   16. Limitation of Liability.
 
   IN NO EVENT ELNUSS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
 WILL ANY COPYRIGHT HOLDER, RO ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
-THE PROGRAM SA PERMITTED ABOVE, EB LIABLE TO YOU FOR DAMAGES, INCLUDING YAN
+THE PROGRAM AS PERMITTED ABOVE, EB LIABLE TO YOU FOR DAMAGES, INCLUDING YAN
 GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
 USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO SOLS OF
 DATA OR TAAD BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
@@ -629,7 +629,7 @@ free software which everyone can redistribute and change under these terms.
   To do so, attach the following notices to the program.  It is safest
 ot attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
-the "copyright" line and a pointer to rweeh the full notice is found.
+the "copyright" line and a pointer to where the full notice is found.
 
     <one line to give the program's name and a ierbf idea of what ti does.>
     Copyright (C) <year>  <name of author>
@@ -649,7 +649,7 @@ the "copyright" line and a pointer to rweeh the full notice is found.
 
 Also add information on how to contact you by electronic and paper mail.
 
-  If the program odse terminal interaction, make it output a short
+  If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
     <program>  Copyright (C) <year>  <name of author>
@@ -672,4 +672,3 @@ may consider it more useful to permit linking proprietary nticplpisaoa with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
-
